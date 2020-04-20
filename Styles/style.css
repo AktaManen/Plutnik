@@ -1,0 +1,23 @@
+h1 {
+	border: 3px solid black;
+	background-image: url("../Bilder/SverigesFlagga.pdf");
+	background-position: 110px;
+	background-size: 1555px 40px;
+	background-repeat: no-repeat;
+	max-width: 1555px
+}
+
+img {
+	max-width: 1200;
+	border: 3px solid black;
+	max-height: 300px;
+}
+
+div {
+	border: 3px solid black;
+	background-color: white;
+}
+
+html {
+	background-color: black;
+}
